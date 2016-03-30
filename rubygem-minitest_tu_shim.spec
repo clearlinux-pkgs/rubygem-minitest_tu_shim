@@ -4,7 +4,7 @@
 #
 Name     : rubygem-minitest_tu_shim
 Version  : 1.3.3
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/minitest_tu_shim-1.3.3.gem
 Source0  : https://rubygems.org/downloads/minitest_tu_shim-1.3.3.gem
 Summary  : No detailed summary available
@@ -63,40 +63,21 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/minitest_tu_shim-1.3.3.gem
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/MiniTest/cdesc-MiniTest.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/Module/cdesc-Module.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/Module/tu_deprecate-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/Module/tu_deprecation_warning-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/Test/Unit/Assertions/assert_block-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/Test/Unit/Assertions/assert_nothing_raised-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/Test/Unit/Assertions/build_message-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/Test/Unit/Assertions/cdesc-Assertions.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/Test/Unit/Assertions/included-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/Test/Unit/Error/cdesc-Error.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/Test/Unit/Error/message-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/Test/Unit/TestCase/cdesc-TestCase.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/Test/Unit/TestCase/test_order-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/Test/Unit/cdesc-Unit.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/Test/cdesc-Test.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/page-History_txt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/page-Manifest_txt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest_tu_shim-1.3.3/ri/page-README_txt.ri
-/usr/lib64/ruby/gems/2.2.0/gems/minitest_tu_shim-1.3.3/.autotest
-/usr/lib64/ruby/gems/2.2.0/gems/minitest_tu_shim-1.3.3/.gemtest
-/usr/lib64/ruby/gems/2.2.0/gems/minitest_tu_shim-1.3.3/History.txt
-/usr/lib64/ruby/gems/2.2.0/gems/minitest_tu_shim-1.3.3/Manifest.txt
-/usr/lib64/ruby/gems/2.2.0/gems/minitest_tu_shim-1.3.3/README.txt
-/usr/lib64/ruby/gems/2.2.0/gems/minitest_tu_shim-1.3.3/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/minitest_tu_shim-1.3.3/bin/use_minitest
-/usr/lib64/ruby/gems/2.2.0/gems/minitest_tu_shim-1.3.3/lib/test/unit.rb
-/usr/lib64/ruby/gems/2.2.0/gems/minitest_tu_shim-1.3.3/lib/test/unit/assertions.rb
-/usr/lib64/ruby/gems/2.2.0/gems/minitest_tu_shim-1.3.3/lib/test/unit/deprecate.rb
-/usr/lib64/ruby/gems/2.2.0/gems/minitest_tu_shim-1.3.3/lib/test/unit/error.rb
-/usr/lib64/ruby/gems/2.2.0/gems/minitest_tu_shim-1.3.3/lib/test/unit/testcase.rb
-/usr/lib64/ruby/gems/2.2.0/gems/minitest_tu_shim-1.3.3/test/test_mini_test.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/minitest_tu_shim-1.3.3.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/minitest_tu_shim-1.3.3.gem
+/usr/lib64/ruby/gems/2.3.0/gems/minitest_tu_shim-1.3.3/.autotest
+/usr/lib64/ruby/gems/2.3.0/gems/minitest_tu_shim-1.3.3/.gemtest
+/usr/lib64/ruby/gems/2.3.0/gems/minitest_tu_shim-1.3.3/History.txt
+/usr/lib64/ruby/gems/2.3.0/gems/minitest_tu_shim-1.3.3/Manifest.txt
+/usr/lib64/ruby/gems/2.3.0/gems/minitest_tu_shim-1.3.3/README.txt
+/usr/lib64/ruby/gems/2.3.0/gems/minitest_tu_shim-1.3.3/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/minitest_tu_shim-1.3.3/bin/use_minitest
+/usr/lib64/ruby/gems/2.3.0/gems/minitest_tu_shim-1.3.3/lib/test/unit.rb
+/usr/lib64/ruby/gems/2.3.0/gems/minitest_tu_shim-1.3.3/lib/test/unit/assertions.rb
+/usr/lib64/ruby/gems/2.3.0/gems/minitest_tu_shim-1.3.3/lib/test/unit/deprecate.rb
+/usr/lib64/ruby/gems/2.3.0/gems/minitest_tu_shim-1.3.3/lib/test/unit/error.rb
+/usr/lib64/ruby/gems/2.3.0/gems/minitest_tu_shim-1.3.3/lib/test/unit/testcase.rb
+/usr/lib64/ruby/gems/2.3.0/gems/minitest_tu_shim-1.3.3/test/test_mini_test.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/minitest_tu_shim-1.3.3.gemspec
 
 %files bin
 %defattr(-,root,root,-)
